@@ -18,3 +18,6 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+
+npm install react react-dom react-router-dom@6
+
